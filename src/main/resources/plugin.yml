@@ -1,0 +1,5 @@
+name: SimpleGunPlugin
+version: '${project.version}'
+main: me.camm.productions.simplegunplugin.SimpleGunPlugin
+authors: [ CAMM_H87 ]
+description: Gun Plugin
